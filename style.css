@@ -1,0 +1,28 @@
+.fg{
+    background-color:hsl(33, 62%, 79%);
+}
+.gh {
+    background-image:url(home.jpg);
+    height: 700px;
+    width: 100%;
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    font-size: 65px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.jgj{
+    background-color: black;
+    color: white;
+}
+
+#myform{
+    border: 1px solid white;
+    padding: 5%;
+   }
+   #myform1{
+    padding: 10%;
+   }
